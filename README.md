@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Diego!
+# 👋 Hi, I'm Alenn!
 
 ## 💡 About Me
 
@@ -28,7 +28,6 @@ I'm always open to discussing technology, collaborating on projects, or sharing 
 
 📧 **Email:** [diegovegabohorquez03@gmail.com](mailto\:diegovegabohorquez03@gmail.com)
 🔗 **LinkedIn:** [linkedin.com/in/diego-vega-bohórquez-12091627a/](https://www.linkedin.com/in/diego-vega-bohórquez-12091627a/)
-🐙 **GitHub:** [github.com/Alenn21](https://github.com/Alenn21)
 
 ---
 
