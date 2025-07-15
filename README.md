@@ -2,18 +2,19 @@
 
 ## 💡 About Me
 
-I am a passionate **Backend Developer** with a strong inclination for **programming, system optimization, and problem-solving**. I enjoy writing clean and efficient code while constantly learning new technologies to enhance my skills.
+I'm a **Fullstack Developer** with a strong foundation in backend development and solid knowledge of frontend technologies. I specialize in designing and implementing efficient, scalable, and high-quality solutions, with experience in managing both relational and non-relational databases. I'm passionate about solving complex problems and staying up to date with the latest technologies to bring value to every project I contribute to.
 
 ## 🚀 Technologies & Tools
 
-- 🔹 **Programming Languages:** Java, JavaScript, C
-- 🔹 **Databases:** MySQL, PostgreSQL, MongoDB
-- 🔹 **Frameworks:** SpringBoot, Express.js
-- 🔹 **Version Control & Infrastructure:** Git
+- 🔹 **Languages:** Java, JavaScript, PHP, Python, TypeScript  
+- 🔹 **Frontend:** HTML, CSS, React, Next.js, Vue.js  
+- 🔹 **Backend / Frameworks:** Spring Boot, Express.js, Laravel  
+- 🔹 **Databases:** MySQL, PostgreSQL, MongoDB  
+- 🔹 **Tools & Platforms:** Git, GitHub, Docker
 
-## 🔍 Why Backend Development?
+## 🎯 Interests & Focus
 
-Since I started programming, I have been fascinated by how systems work behind the scenes. I enjoy designing architectures, optimizing databases, and ensuring the efficiency and scalability of applications.
+I'm passionate about building well-structured software and interested in system architecture, clean code practices, and continuous learning. My goal is to contribute to high-impact technology projects from both the backend and frontend perspectives.
 
 ## 📚 Currently Learning
 
